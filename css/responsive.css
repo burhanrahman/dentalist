@@ -1,0 +1,226 @@
+/* Media Query */
+
+/* Smartphone */
+@media (min-width: 320px) and (max-width: 480px) {
+  /* code start */
+  .navbar .nav-item .custom-btn {
+    display: block;
+    margin-left: 0px;
+  }
+  .hero {
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 35px;
+    line-height: 46px;
+    padding: 0px;
+  }
+  .service {
+    text-align: center;
+  }
+  .service .box {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  .treatment {
+    text-align: center;
+  }
+  .treatment .title {
+    padding-top: 40px;
+  }
+  .news .box {
+    margin-bottom: 15px;
+  }
+  .expert .title {
+    padding: 40px 0px;
+  }
+  .testimonial .box {
+    margin-bottom: 15px;
+  }
+  .footer {
+    text-align: center;
+  }
+  .footer ul {
+    padding: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+  }
+  /* code end */
+}
+
+/* Galaxy Fold */
+@media (min-width: 280px) and (max-width: 319px) {
+  /* code start */
+  .navbar .nav-item .custom-btn {
+    display: block;
+    margin-left: 0px;
+  }
+  .hero {
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 26px;
+    line-height: 36px;
+    padding: 0px;
+  }
+  .service {
+    text-align: center;
+  }
+  .service .box {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  .patient h5 {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .treatment {
+    text-align: center;
+  }
+  .treatment .title {
+    padding-top: 40px;
+  }
+  .news .box {
+    margin-bottom: 15px;
+  }
+  .expert .title {
+    padding: 40px 0px;
+  }
+  .testimonial .box {
+    margin-bottom: 15px;
+  }
+  .footer {
+    text-align: center;
+  }
+  .footer ul {
+    padding: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+  }
+  /* code end */
+}
+
+/* Low Resolution Tablets, Mobiles (Landscape) */
+
+@media (min-width: 481px) and (max-width: 767px) {
+  /* code start */
+  .navbar .nav-item .custom-btn {
+    display: block;
+    margin-left: 0px;
+  }
+  .hero {
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 35px;
+    line-height: 46px;
+    padding: 0px;
+  }
+  .service {
+    text-align: center;
+  }
+  .service .box {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  .treatment {
+    text-align: center;
+  }
+  .treatment .title {
+    padding-top: 40px;
+  }
+  .news .box {
+    margin-bottom: 15px;
+  }
+  .news img {
+    width: 437px;
+  }
+  .expert .title {
+    padding: 40px 0px;
+  }
+  .testimonial .box {
+    margin-bottom: 15px;
+  }
+  .footer {
+    text-align: center;
+  }
+  .footer ul {
+    padding: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+  }
+  /* code end */
+}
+
+/* Tablets, Ipads (portrait) */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* code start */
+  .navbar .nav-item .custom-btn {
+    display: block;
+    margin-left: 0px;
+  }
+  .hero {
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 35px;
+    line-height: 46px;
+    padding: 0px;
+  }
+  .service {
+    text-align: center;
+  }
+  .service .s1 {
+    padding: 13px;
+  }
+  .service .s2 {
+    padding: 13px;
+  }
+  .service .s3 {
+    padding: 13px;
+  }
+  .service .s4 {
+    padding: 13px;
+  }
+  .service .box {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  .treatment {
+    text-align: center;
+  }
+  .treatment .title {
+    padding-top: 40px;
+  }
+  .news .box {
+    margin-bottom: 15px;
+  }
+  .expert .title {
+    padding: 40px 0px;
+  }
+  .testimonial .box {
+    margin-bottom: 15px;
+  }
+  .footer {
+    text-align: center;
+  }
+  .footer ul {
+    padding: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+  }
+  /* code end */
+}
+
+/* Laptops, Desktops*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  /* code start */
+
+  /* code end */
+}
